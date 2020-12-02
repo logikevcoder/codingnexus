@@ -12,9 +12,9 @@ Follow the instructions in [this link](https://docs.github.com/en/free-pro-team@
 
 ### To get this project installed on your local machine
 
-* Fork the repository. This button is located on the top right part of this webpage. Look for the button that says **fork**. Please do not clone directly from this repo.All pull requests will be against your forked repo, not by cloning the repository directly.
+* Fork the repository. This button is located on the top right part of this webpage. Look for the button that says **fork**. Please do not clone directly from this repo. All pull requests will be against your forked repo, not by cloning the repository directly.
 * Once the project is forked and you can find it in your github account, click on the repository link
-* Clone the repository by clicking the green button that says copy to show the dropdown to copy your respository. Make sure the SSH tab is selected. Copy the url or click the copy button on the right of it
+* Clone the repository by clicking the green button that says code to show the dropdown to copy your respository. Make sure the SSH tab is selected. Copy the url or click the copy button on the right of it
 * Open your terminal, navigate where you want the project location to be located
 * If you're using the terminal built into VScode use the shortcut control + ~ to bring up the terminal
 * Type `git clone <past in the repo url you copied>`
