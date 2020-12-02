@@ -19,6 +19,12 @@
 * You're now able to run `gatsby develop` to load the actual website
 * The project page should load automatically but if it doesnt just navigate to localhost:8000
 
+### Set up a new URL in your git to point to the "original" repo so that you can update your forked repo when needed
+
+* Type `git remote add codingnexus git@github.com:Coding-Nexus/codingnexus.git`
+* Note that you can change the name codingnexus to whatever name you want to let you know that points to the original repo
+* For example when you need to update your fork from the original you would type `git pull codingnexus master`
+* Afterwhich you would type `git push origin master` to update your forked branch to the branch you pulled
 ### to start up storybook
 
 * Go into your terminal either from VScode or a regular terminal window
