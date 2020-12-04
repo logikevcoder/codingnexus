@@ -23,9 +23,9 @@ This project is built with the following technologies:
 
 - Always start your new branch from your master branch
 - Always start your branch name with a word describing the goal of the thing youre building/fixing
-- `git branch -b component-componentName`If youre adding a new visual component, such as a standalone element such as button, link, dropdown, etc 
-- `git branch -b feature-featureItem` If youre building a new visual feature such as a header, footer, complete form, a new page, any element that is much larger in size than a standalone component
-- `git branch -b functionality-example` If youre building or updating any new piece of functionality to the site, whether that is new font sets, new styles, integrating a backend, or connecting the front end with Graphql queries
+- `git checkout -b component-componentName`If youre adding a new visual component, such as a standalone element such as button, link, dropdown, etc
+- `git checkout -b feature-featureItem` If youre building a new visual feature such as a header, footer, complete form, a new page, any element that is much larger in size than a standalone component
+- `git checkout -b functionality-example` If youre building or updating any new piece of functionality to the site, whether that is new font sets, new styles, integrating a backend, or connecting the front end with Graphql queries
 - If you find yourself building a feature that also contains one or the other then just label it as a feature branch. The same for component branches. Functionality branches should stick to only adding in the required piece of functionality. All components or feature should be present before then
 
 ## Keeping your project updated with the original repo you forked your project from
