@@ -1,24 +1,25 @@
 # Frontend debvelopment workflow
 
-This project is build with the following technologies:
-**[Gatsby]:** The site was generated with Gatsby
+This project is built with the following technologies:
+
+- **[Gatsby]:** The site was generated with Gatsby
 [Learn more about Gatsby here](https://www.gatsbyjs.com/)
 
-**[React]** Coding Nexus is build entirely in React. We use most of the modern React features such as Hooks, Context, and much more.
+- **[React]** Coding Nexus is build entirely in React. We use most of the modern React features such as Hooks, Context, and much more.
 [Learn more about React here](https://reactjs.org/)
 
-**[Storybook]** We are using Storybook as our way of visually testing all components and sections of the website
+- **[Storybook]** We are using Storybook as our way of visually testing all components and sections of the website
 [Learn more about Storybook here](https://storybook.js.org/docs/react/get-started/introduction/)
 
-**[Jest]** We have chosen Jest as our way of Unit testing our React and JavaScript code
+- **[Jest]** We have chosen Jest as our way of Unit testing our React and JavaScript code
 [Learn more about Jest Testing here](https://jestjs.io/en/)
 
-**[TailwindCSS]** All styles are coded using TailwindCSS, in addition to using PostCSS for more detailed styling
+- **[TailwindCSS]** All styles are coded using TailwindCSS, in addition to using PostCSS for more detailed styling
 [Learn more about TailwindCSS here](https://tailwindcss.com/)
 
 ## Creating Ticket Branches
 
-When starting a new branch there are a few guidelines to follow.
+### When starting a new branch there are a few guidelines to follow.
 
 - Always start your new branch from your master branch
 - Always start your branch name with a word describing the goal of the thing youre building/fixing
