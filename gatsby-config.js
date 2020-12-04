@@ -22,11 +22,7 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-purgecss`,
-      options: {
-        printRejected: false,
-        develop: false,
-        tailwind: true,
-      },
+      options: { tailwind: true },
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -39,7 +35,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/icons/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/assets/icons/logo.svg`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
