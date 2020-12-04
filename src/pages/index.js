@@ -8,8 +8,10 @@ import SEO from '../components/seo';
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Welcome to Coding Nexus. Please check back later</h1>
-    <p>Testing</p>
+    <h1 className="font-xl">
+      Welcome to Coding Nexus. Please check back later
+    </h1>
+
     <div>
       <Image />
     </div>
