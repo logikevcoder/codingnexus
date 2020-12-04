@@ -1,4 +1,4 @@
-# Frontend debvelopment workflow
+# Frontend development workflow
 
 This project is built with the following technologies:
 
@@ -17,7 +17,7 @@ This project is built with the following technologies:
 - **[TailwindCSS]** All styles are coded using TailwindCSS, in addition to using PostCSS for more detailed styling
 [Learn more about TailwindCSS here](https://tailwindcss.com/)
 
-## Creating Ticket Branches
+## Creating ticket branches
 
 ### When starting a new branch there are a few guidelines to follow.
 

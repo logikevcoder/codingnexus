@@ -41,3 +41,8 @@ Follow the instructions in [this link](https://docs.github.com/en/free-pro-team@
 * Go into your terminal either from VScode or a regular terminal window
 * Type `npm run storybook`
 * The Storybook website should load automatically. If it doesn't navigate to localhost:6006
+
+
+### Frontend Development Workflow
+
+[Click here to view the Frontend Development Workflow](https://github.com/Coding-Nexus/codingnexus/blob/master/docs/workflow/frontend.md)
