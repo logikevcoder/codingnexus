@@ -32,6 +32,7 @@ This project is built with the following technologies:
 
 - Periodically make sure to update your master branch with the ORIGINAL repos master branch. All code will eventually end back up in master, so before making a new branch off of master go ahead with a `git pull origin master`
 - If you received an update from origin master branch please do not forget to push those updates back to your remote repo with `git push <your project repo> master`
+- Lastly, as the project may be installing new npm package dependencies from time to time, please don't forget to run `npm install` if you attempt to start your project and get any errors
 
 ## Making a pull request when your code is complete
 
