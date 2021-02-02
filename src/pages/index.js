@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/tailwind.css';
+import SectionBlock from '../components/SectionBlock/index.js';
 
 import Layout from '../layouts/layout';
 import Image from '../components/image';
@@ -13,6 +14,7 @@ const IndexPage = () => (
     <div>
       <Image />
     </div>
+    <SectionBlock />
   </Layout>
 );
 
